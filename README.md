@@ -8,7 +8,7 @@ Dự án được thực hiện nhằm nghiên cứu và triển khai một hệ
 - Tích hợp vào quy trình kiểm kê tại các nhà thuốc hoặc kho dược.
 
 ## 🛠 Công nghệ sử dụng
-- **Ngôn ngữ:** Python
+- Ngôn ngữ:** Python
 - **Mô hình AI:** YOLOv8 (Ultralytics)
 - **Xử lý ảnh:** OpenCV
 - **Giao diện:** Streamlit / Flask
