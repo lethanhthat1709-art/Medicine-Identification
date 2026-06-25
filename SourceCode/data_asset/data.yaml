@@ -1,0 +1,14 @@
+names:
+- BrainForte
+- Loparamide
+- Sadapron300
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: thuoc_yolov8
+  url: https://universe.roboflow.com/thanh-le-tkeuc/thuoc_yolov8/dataset/1
+  version: 1
+  workspace: thanh-le-tkeuc
+test: ../test/images
+train: ../train/images
+val: ../valid/images
